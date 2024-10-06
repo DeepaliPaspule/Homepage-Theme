@@ -11,7 +11,7 @@ Edge : edge://extensions
 
 Brave : brave://extensions
 
-Enable developer options (See the screenshots below)
+Enable developer options
 
 Click on 'Load unpacked' option
 
