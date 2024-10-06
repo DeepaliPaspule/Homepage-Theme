@@ -18,4 +18,4 @@ Click on 'Load unpacked' option
 Browse & Select your extension folder
 
 # Feedback
-We value your feedback! If you have any suggestions, ideas, or questions, please don't hesitate to reach out to us via ✉️ Email or ✈️ Telegram.
+We value your feedback! If you have any suggestions, ideas, or questions, please don't hesitate to reach out to us @deepalipaspule01@gmail.com
